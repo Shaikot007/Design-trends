@@ -1,0 +1,153 @@
+.body {
+    margin: auto;
+}
+
+.box1 {
+    background-color: #3EC9A0;
+    height: 500px; 
+    display: flex;               /* establish flex container */
+    align-items: center;         /* vertically center flex items */
+}
+
+.center-box {
+    position: relative;
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    background-color: #ccc;
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+}
+
+.box2 {
+    background-image: url("https://ak8.picdn.net/shutterstock/videos/8360746/thumb/1.jpg?i10c=img.resize(height:160)");
+    background-size: contain;
+    background-size: 100vw 80vh;
+    height: 500px;
+}
+
+.box2-background-color {
+    background-color: rgba(254, 95, 92, 0.8);
+    width: 100%;
+    height: 100%;
+}
+
+.box3 {
+    background-image: url("https://www.usacoachlimousine.com/wp-content/uploads/2017/02/concert-ucl-600x350.jpg");
+    background-size: contain;
+    background-size: 100vw 80vh;
+    height: 500px;
+}
+
+.box3-background-color {
+    background-color: rgba(86, 36, 159, 0.8);
+    width: 100%;
+    height: 100%;
+}
+
+.box4 {
+    background-image: url("http://freedesignfile.com/upload/2017/01/Different-Background-Laptop-HD-picture-01.jpg");
+    background-size: contain;
+    background-size: 100vw 80vh;
+    height: 500px;
+}
+
+.box4-background-color {
+    background-color: rgba(31, 51, 164, 0.8);
+    width: 100%;
+    height: 100%;
+}
+
+.box5 {
+    background-image: url("https://i.pinimg.com/originals/0f/2c/5a/0f2c5ae7ebfe0fc29374880d64dd5738.jpg");
+    background-size: contain;
+    background-size: 100vw 80vh;
+    height: 500px;
+}
+
+.box5-background-color {
+    background-color: rgba(29, 136, 84, 0.8);
+    width: 100%;
+    height: 100%;
+}
+
+.box6 {
+    background-image: url("http://cdn.mntm.me/a7/6e/21/6-Unforgettable-Train-Trips-in-the-USA-a76e21541ed3400ca4d61b1671a1e9b1.jpg");
+    background-size: contain;
+    background-size: 100vw 80vh;
+    height: 500px;
+}
+
+.box6-background-color {
+    background-color: rgba(111, 149, 30, 0.8);
+    width: 100%;
+    height: 100%;
+}
+
+.box7 {
+    background-image: url("https://images4.alphacoders.com/260/thumb-1920-260676.jpg");
+    background-size: contain;
+    background-size: 100vw 80vh;
+    height: 500px;
+}
+
+.box7-background-color {
+    background-color: rgba(170, 138, 25, 0.8);
+    width: 100%;
+    height: 100%;
+}
+
+.box8 {
+    background-image: url("http://cdn2.ubergizmo.com/wp-content/uploads/2015/04/windows-10-for-phones-leaked-build.jpg");
+    background-size: contain;
+    background-size: 100vw 80vh;
+    height: 500px;
+}
+
+.box8-background-color {
+    background-color: rgba(168, 78, 41, 0.8);
+    width: 100%;
+    height: 100%;
+}
+
+.box9 {
+    background-image: url("https://cdn.shutterstock.com/shutterstock/videos/10725455/thumb/1.jpg");
+    background-size: contain;
+    background-size: 100vw 80vh;
+    height: 500px;
+}
+
+.box9-background-color {
+    background-color: rgba(205, 50, 45, 0.8);
+    width: 100%;
+    height: 100%;
+}
+
+.headline1 {
+    position: absolute;
+    font-size: 40px;
+    padding: 100px 300px 0px 300px;
+    font-family: 'Titan One', cursive;
+    color: white;
+    text-align: justify;
+}
+
+.headline2 {
+    position: absolute;
+    font-size: 40px;
+    padding: 150px 300px 0px 300px;
+    font-family: 'Titan One', cursive;
+    color: white;
+    text-align: justify;
+}
+
+.sentence {
+    position: absolute;
+    font-size: 32px;
+    padding: 250px 300px 0px 300px;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-align: justify;
+}
+
