@@ -127,7 +127,7 @@
 .headline1 {
     position: absolute;
     font-size: 40px;
-    padding: 100px 300px 0px 300px;
+    margin: 150px 300px 0px 300px;
     font-family: 'Titan One', cursive;
     color: white;
     text-align: justify;
@@ -136,7 +136,7 @@
 .headline2 {
     position: absolute;
     font-size: 40px;
-    padding: 150px 300px 0px 300px;
+    margin: 200px 300px 0px 300px;
     font-family: 'Titan One', cursive;
     color: white;
     text-align: justify;
@@ -145,9 +145,22 @@
 .sentence {
     position: absolute;
     font-size: 32px;
-    padding: 250px 300px 0px 300px;
+    margin: 300px 300px 0px 300px;
     font-family: 'Lato', sans-serif;
     color: white;
     text-align: justify;
+}
+
+.boldbox {
+    position: absolute;
+    font-size: 40px;
+    margin: 150px 0px 0px 150px;
+    padding: 0px 0px 0px 10px;
+    font-family: 'Titan One', cursive;
+    color: white;
+    text-align: justify;
+    border: 10px solid white;
+    height: 80px;
+    width: 70px;
 }
 
