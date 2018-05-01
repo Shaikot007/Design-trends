@@ -6,18 +6,38 @@
     background-color: #3EC9A0;
     height: 500px; 
     display: flex;               /* establish flex container */
-    align-items: center;         /* vertically center flex items */
 }
 
 .center-box {
-    position: relative;
     margin: auto;
-    width: 300px;
-    height: 300px;
-    background-color: #ccc;
-    border-style: solid;
-    border-width: 10px;
-    border-color: white;
+    width: 250px;
+    height: 250px;
+    border: 10px solid white;
+    background-color: #f66c5b;
+}
+
+.design1 {
+    font-size: 35px;
+    margin: 5px 15px 0px 15px;
+    font-family: 'Titan One', cursive;
+    color: white;
+    text-align: left;
+}
+
+.design2 {
+    font-size: 35px;
+    margin: 0px 15px 0px 15px;
+    font-family: 'Titan One', cursive;
+    color: white;
+    text-align: left;
+}
+
+.design3 {
+    font-size: 50px;
+    margin: 100px 15px 0px 100px;
+    font-family: 'Titan One', cursive;
+    color: white;
+    text-align: right;
 }
 
 .box2 {
@@ -162,5 +182,12 @@
     border: 10px solid white;
     height: 80px;
     width: 70px;
+}
+
+.line {
+    width: 1000px;
+    border: 5px solid white;
+    position: absolute;
+    margin: 100px 150px 0px 150px;
 }
 
