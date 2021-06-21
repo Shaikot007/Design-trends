@@ -1,229 +1,228 @@
 .body {
-    margin: auto;
+  margin: auto;
 }
 
 .box1 {
-    background-color: #3EC9A0;
-    height: 500px; 
-    display: flex;               /* establish flex container */
+  background-color: #3EC9A0;
+  height: 500px;
+  display: flex;  /* establish flex container */
 }
 
 .center-box {
-    margin: auto;
-    width: 250px;
-    height: 250px;
-    border: 10px solid white;
-    background-color: #f66c5b;
+  margin: auto;
+  width: 250px;
+  height: 250px;
+  border: 10px solid white;
+  background-color: #f66c5b;
 }
 
 .design1 {
-    font-size: 35px;
-    margin: 5px 15px 0px 15px;
-    font-family: 'Titan One', cursive;
-    color: white;
-    text-align: left;
+  font-size: 35px;
+  margin: 5px 15px 0px 15px;
+  font-family: 'Titan One', cursive;
+  color: white;
+  text-align: left;
 }
 
 .design2 {
-    font-size: 35px;
-    margin: 0px 15px 0px 15px;
-    font-family: 'Titan One', cursive;
-    color: white;
-    text-align: left;
+  font-size: 35px;
+  margin: 0px 15px 0px 15px;
+  font-family: 'Titan One', cursive;
+  color: white;
+  text-align: left;
 }
 
 .design3 {
-    font-size: 50px;
-    margin: 100px 15px 0px 100px;
-    font-family: 'Titan One', cursive;
-    color: white;
-    text-align: right;
+  font-size: 50px;
+  margin: 100px 15px 0px 100px;
+  font-family: 'Titan One', cursive;
+  color: white;
+  text-align: right;
 }
 
 .box2 {
-    background-image: url("https://ak8.picdn.net/shutterstock/videos/8360746/thumb/1.jpg?i10c=img.resize(height:160)");
-    background-size: contain;
-    background-size: 100vw 80vh;
-    height: 500px;
+  background-image: url("https://ak8.picdn.net/shutterstock/videos/8360746/thumb/1.jpg?i10c=img.resize(height:160)");
+  background-size: contain;
+  background-size: 100vw 80vh;
+  height: 500px;
 }
 
 .box2-background-color {
-    background-color: rgba(254, 95, 92, 0.8);
-    width: 100%;
-    height: 100%;
-    display: flex;
+  background-color: rgba(254, 95, 92, 0.8);
+  width: 100%;
+  height: 100%;
+  display: flex;
 }
 
 .box3 {
-    background-image: url("https://www.usacoachlimousine.com/wp-content/uploads/2017/02/concert-ucl-600x350.jpg");
-    background-size: contain;
-    background-size: 100vw 80vh;
-    height: 500px;
+  background-image: url("https://www.usacoachlimousine.com/wp-content/uploads/2017/02/concert-ucl-600x350.jpg");
+  background-size: contain;
+  background-size: 100vw 80vh;
+  height: 500px;
 }
 
 .box3-background-color {
-    background-color: rgba(86, 36, 159, 0.8);
-    width: 100%;
-    height: 100%;
-    display: flex;
+  background-color: rgba(86, 36, 159, 0.8);
+  width: 100%;
+  height: 100%;
+  display: flex;
 }
 
 .box4 {
-    background-image: url("http://freedesignfile.com/upload/2017/01/Different-Background-Laptop-HD-picture-01.jpg");
-    background-size: contain;
-    background-size: 100vw 80vh;
-    height: 500px;
+  background-image: url("http://freedesignfile.com/upload/2017/01/Different-Background-Laptop-HD-picture-01.jpg");
+  background-size: contain;
+  background-size: 100vw 80vh;
+  height: 500px;
 }
 
 .box4-background-color {
-    background-color: rgba(31, 51, 164, 0.8);
-    width: 100%;
-    height: 100%;
-    display: flex;
+  background-color: rgba(31, 51, 164, 0.8);
+  width: 100%;
+  height: 100%;
+  display: flex;
 }
 
 .box5 {
-    background-image: url("https://i.pinimg.com/originals/0f/2c/5a/0f2c5ae7ebfe0fc29374880d64dd5738.jpg");
-    background-size: contain;
-    background-size: 100vw 80vh;
-    height: 500px;
+  background-image: url("https://i.pinimg.com/originals/0f/2c/5a/0f2c5ae7ebfe0fc29374880d64dd5738.jpg");
+  background-size: contain;
+  background-size: 100vw 80vh;
+  height: 500px;
 }
 
 .box5-background-color {
-    background-color: rgba(29, 136, 84, 0.8);
-    width: 100%;
-    height: 100%;
-    display: flex;
+  background-color: rgba(29, 136, 84, 0.8);
+  width: 100%;
+  height: 100%;
+  display: flex;
 }
 
 .box6 {
-    background-image: url("http://cdn.mntm.me/a7/6e/21/6-Unforgettable-Train-Trips-in-the-USA-a76e21541ed3400ca4d61b1671a1e9b1.jpg");
-    background-size: contain;
-    background-size: 100vw 80vh;
-    height: 500px;
+  background-image: url("http://cdn.mntm.me/a7/6e/21/6-Unforgettable-Train-Trips-in-the-USA-a76e21541ed3400ca4d61b1671a1e9b1.jpg");
+  background-size: contain;
+  background-size: 100vw 80vh;
+  height: 500px;
 }
 
 .box6-background-color {
-    background-color: rgba(111, 149, 30, 0.8);
-    width: 100%;
-    height: 100%;
-    display: flex;
+  background-color: rgba(111, 149, 30, 0.8);
+  width: 100%;
+  height: 100%;
+  display: flex;
 }
 
 .box7 {
-    background-image: url("https://images4.alphacoders.com/260/thumb-1920-260676.jpg");
-    background-size: contain;
-    background-size: 100vw 80vh;
-    height: 500px;
+  background-image: url("https://images4.alphacoders.com/260/thumb-1920-260676.jpg");
+  background-size: contain;
+  background-size: 100vw 80vh;
+  height: 500px;
 }
 
 .box7-background-color {
-    background-color: rgba(170, 138, 25, 0.8);
-    width: 100%;
-    height: 100%;
-    display: flex;
+  background-color: rgba(170, 138, 25, 0.8);
+  width: 100%;
+  height: 100%;
+  display: flex;
 }
 
 .box8 {
-    background-image: url("http://cdn2.ubergizmo.com/wp-content/uploads/2015/04/windows-10-for-phones-leaked-build.jpg");
-    background-size: contain;
-    background-size: 100vw 80vh;
-    height: 500px;
+  background-image: url("http://cdn2.ubergizmo.com/wp-content/uploads/2015/04/windows-10-for-phones-leaked-build.jpg");
+  background-size: contain;
+  background-size: 100vw 80vh;
+  height: 500px;
 }
 
 .box8-background-color {
-    background-color: rgba(168, 78, 41, 0.8);
-    width: 100%;
-    height: 100%;
-    display: flex;
+  background-color: rgba(168, 78, 41, 0.8);
+  width: 100%;
+  height: 100%;
+  display: flex;
 }
 
 .box9 {
-    background-image: url("https://cdn.shutterstock.com/shutterstock/videos/10725455/thumb/1.jpg");
-    background-size: contain;
-    background-size: 100vw 80vh;
-    height: 500px;
+  background-image: url("https://cdn.shutterstock.com/shutterstock/videos/10725455/thumb/1.jpg");
+  background-size: contain;
+  background-size: 100vw 80vh;
+  height: 500px;
 }
 
 .box9-background-color {
-    background-color: rgba(205, 50, 45, 0.8);
-    width: 100%;
-    height: 100%;
-    display: flex;
+  background-color: rgba(205, 50, 45, 0.8);
+  width: 100%;
+  height: 100%;
+  display: flex;
 }
 
 .headline1 {
-    position: absolute;
-    font-size: 40px;
-    margin: 100px 150px 0px 150px;
-    font-family: 'Titan One', cursive;
-    color: white;
-    text-align: left;
+  position: absolute;
+  font-size: 40px;
+  margin: 100px 150px 0px 150px;
+  font-family: 'Titan One', cursive;
+  color: white;
+  text-align: left;
 }
 
 .headline2 {
-    position: absolute;
-    font-size: 40px;
-    margin: 150px 150px 0px 150px;
-    font-family: 'Titan One', cursive;
-    color: white;
-    text-align: left;
+  position: absolute;
+  font-size: 40px;
+  margin: 150px 150px 0px 150px;
+  font-family: 'Titan One', cursive;
+  color: white;
+  text-align: left;
 }
 
 .sentence {
-    position: absolute;
-    font-size: 32px;
-    margin: 250px 300px 0px 150px;
-    font-family: 'Lato', sans-serif;
-    color: white;
-    text-align: justify;
+  position: absolute;
+  font-size: 32px;
+  margin: 250px 300px 0px 150px;
+  font-family: 'Lato', sans-serif;
+  color: white;
+  text-align: justify;
 }
 
 .boldbox {
-    position: absolute;
-    font-size: 40px;
-    margin: 100px 0px 0px 20px;
-    padding: 0px 0px 0px 10px;
-    font-family: 'Titan One', cursive;
-    color: white;
-    text-align: justify;
-    border: 10px solid white;
-    height: 80px;
-    width: 70px;
+  position: absolute;
+  font-size: 40px;
+  margin: 100px 0px 0px 20px;
+  padding: 0px 0px 0px 10px;
+  font-family: 'Titan One', cursive;
+  color: white;
+  text-align: justify;
+  border: 10px solid white;
+  height: 80px;
+  width: 70px;
 }
 
 .line {
-    width: 75%;
-    border: 5px solid white;
-    position: absolute;
-    margin: 50px 20px 0px 20px;
+  width: 75%;
+  border: 5px solid white;
+  position: absolute;
+  margin: 50px 20px 0px 20px;
 }
 
 .adjust-box {
-    margin: auto;
-    width: 80%;
-    height: 80%;
+  margin: auto;
+  width: 80%;
+  height: 80%;
 }
 
 @media only screen and (max-width: 480px) {
-    .container-fluid { width: 100%; }
-    .box1 { height: 300px; }
-    .center-box { width: 150px; height: 150px; border: 5px solid white; }
-    .design1 { font-size: 20px; margin: 5px 5px 0px 5px; }
-    .design2 { font-size: 20px; margin: 0px 5px 0px 5px; }
-    .design3 { font-size: 25px; margin: 65px 5px 0px 5px; }
-    .box2 { height: 300px; }
-    .box3 { height: 300px; }
-    .box4 { height: 300px; }
-    .box5 { height: 300px; }
-    .box6 { height: 300px; }
-    .box7 { height: 300px; }
-    .box8 { height: 300px; }
-    .box9 { height: 300px; }
-    .headline1 { font-size: 12px; margin: 30px 50px 0px 80px; }
-    .headline2 { font-size: 12px; margin: 50px 50px 0px 80px; }
-    .sentence { font-size: 10px; margin: 80px 70px 0px 80px; }
-    .boldbox { font-size: 15px; height: 30px; width: 25px; margin: 30px 0px 0px 20px; border: 5px solid white; padding: 0px 0px 0px 5px; }
-    .line { width: 80%; position: relative; margin: 40px 20px 0px 20px; }
+  .container-fluid { width: 100%; }
+  .box1 { height: 300px; }
+  .center-box { width: 150px; height: 150px; border: 5px solid white; }
+  .design1 { font-size: 20px; margin: 5px 5px 0px 5px; }
+  .design2 { font-size: 20px; margin: 0px 5px 0px 5px; }
+  .design3 { font-size: 25px; margin: 65px 5px 0px 5px; }
+  .box2 { height: 300px; }
+  .box3 { height: 300px; }
+  .box4 { height: 300px; }
+  .box5 { height: 300px; }
+  .box6 { height: 300px; }
+  .box7 { height: 300px; }
+  .box8 { height: 300px; }
+  .box9 { height: 300px; }
+  .headline1 { font-size: 12px; margin: 30px 50px 0px 80px; }
+  .headline2 { font-size: 12px; margin: 50px 50px 0px 80px; }
+  .sentence { font-size: 10px; margin: 80px 70px 0px 80px; }
+  .boldbox { font-size: 15px; height: 30px; width: 25px; margin: 30px 0px 0px 20px; border: 5px solid white; padding: 0px 0px 0px 5px; }
+  .line { width: 80%; position: relative; margin: 40px 20px 0px 20px; }
 }
-
